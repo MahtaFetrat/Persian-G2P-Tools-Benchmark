@@ -57,6 +57,15 @@ This repository is licensed under the MIT License.
 
 ---
 
+
+## Citation
+
+If you use this project in your work, please cite the corresponding paper:
+
+> TODO
+
+---
+
 ### Additional Links
 
 * [Link to Paper](https://anonymous.4open.science/r/HomoRich-G2P-Persian/)
